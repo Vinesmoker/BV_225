@@ -328,8 +328,6 @@ void Search(int mas[], int n)
 			{
 				coll++;
 			}
-
-
 		}
 
 		if (coll > 0)
